@@ -47,11 +47,11 @@ Esses procedimentos permitem trabalhar com uma base sem valores ausentes nas var
 
 Foi criado o índice de alongamento do bico, calculado pela razão entre o comprimento e a profundidade do bico:
 
-\[
+$$
 I_{\text{alongamento}} =
 \frac{\text{comprimento do bico}}
 {\text{profundidade do bico}}
-\]
+$$
 
 O índice representa a proporção entre as duas dimensões biométricas, acrescentando uma característica morfométrica derivada às variáveis originais.
 
