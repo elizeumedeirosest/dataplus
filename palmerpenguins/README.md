@@ -6,7 +6,7 @@
 
 # 
 
-# !\[Palmer Penguins](imagem\_pinguins.jpg)
+# !\[Palmer Penguins](imagem\_pinguins.png)
 
 # 
 
