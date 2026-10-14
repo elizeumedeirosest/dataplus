@@ -2,7 +2,9 @@
 
 Versão enriquecida do conjunto de dados Palmer Penguins, com transformações, padronização de variáveis, imputação de valores ausentes e criação de novas características para análises estatísticas e projetos de ciência de dados.
 
+<p align="center">
 <img src="imagem_pinguins.png" alt="Palmer Penguins" width="400">
+</p>
 
 ## Sobre a base
 
@@ -16,7 +18,7 @@ Este projeto parte da base original disponibilizada pelo pacote `palmerpenguins`
 |---|---|
 | `penguins_raw.xlsx` | Base original, sem as transformações realizadas neste projeto. |
 | `penguins_plus.xlsx` | Versão enriquecida, com variáveis padronizadas, valores ausentes imputados e novas características. |
-| `penguins_imagem.jpg` | Imagem ilustrativa do conjunto de dados. |
+| `imagem_pinguins.png` | Imagem ilustrativa do conjunto de dados. |
 
 ## Transformações realizadas
 
