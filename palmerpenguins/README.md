@@ -2,7 +2,7 @@
 
 Versão enriquecida do conjunto de dados Palmer Penguins, com transformações, padronização de variáveis, imputação de valores ausentes e criação de novas características para análises estatísticas e projetos de ciência de dados.
 
-![Palmer Penguins](imagem_pinguins.png)
+<img src="imagem_pinguins.png" alt="Palmer Penguins" width="400">
 
 ## Sobre a base
 
